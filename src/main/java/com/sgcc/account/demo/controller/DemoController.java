@@ -38,5 +38,12 @@ public class DemoController {
     public String ffff(){
         return "/demo/ffff";
     }
+    /**
+     * 
+     * @return test
+     */
+    public String zxing() {
+    	return "zengxing";
+    }
 
 }
